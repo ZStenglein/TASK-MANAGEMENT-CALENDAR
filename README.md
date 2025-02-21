@@ -1,0 +1,1 @@
+This is a Task Management Calendar designed for a client in order to streamline tasks in one place with specific information about each task, log in information persistence, robust filtering of tasks, and ability to add assignees. 
